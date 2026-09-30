@@ -51,7 +51,7 @@ Core-Java-Practice/
 2. Clone this repository:
 
 
-git clone https://github.com/AsraFathima38/My-Core-Java-Practice.git
+git clone https://github.com/AsraFathima38/My-Core-Java-Project-TNS.git
 
 
 3. Open the project in **Eclipse** or another Java IDE.
